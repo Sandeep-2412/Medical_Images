@@ -1,4 +1,4 @@
-# Medical_Images
+# Healthcare Data Pipeline and Analytics Platform
 #### 📌 Overview  
 Developed an **efficient ETL pipeline** for processing large-scale **medical imaging datasets** (>100GB), optimizing data transformation and storage.  
 #### 🔥 Key Features  
